@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ganhe Dinheiro Encurtando Links</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 20px;
+      font-weight: 700;
+      text-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    p {
+      font-size: 1.2rem;
+      margin-bottom: 40px;
+      max-width: 500px;
+      line-height: 1.5;
+      text-shadow: 0 1px 5px rgba(0,0,0,0.3);
+    }
+    a.btn {
+      background-color: #00e676;
+      color: #182848;
+      font-weight: 700;
+      text-decoration: none;
+      padding: 18px 40px;
+      font-size: 1.2rem;
+      border-radius: 50px;
+      box-shadow: 0 6px 12px rgba(0,230,118,0.5);
+      transition: background-color 0.3s ease, box-shadow 0.3s ease;
+      display: inline-block;
+    }
+    a.btn:hover {
+      background-color: #00c853;
+      box-shadow: 0 8px 20px rgba(0,200,83,0.7);
+    }
+    footer {
+      margin-top: 60px;
+      font-size: 0.9rem;
+      color: rgba(255,255,255,0.7);
+    }
+  </style>
+</head>
+<body>
+  <h1>Ganhe Dinheiro Encurtando Links</h1>
+  <p>
+    Compartilhe links encurtados, aumente seus ganhos e acompanhe tudo pelo nosso painel simples e eficiente. Comece agora e transforme seus compartilhamentos em dinheiro!
+  </p>
+  <a href="https://encurta.net/ref/113084217886494396012" class="btn">Cadastre-se Gratuitamente</a>
+
+  <footer>
+    &copy;  Todos os direitos reservados
+  </footer>
+</body>
+</html>
